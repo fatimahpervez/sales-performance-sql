@@ -1,0 +1,5 @@
+data_raw/
+excel/
+*.csv
+~$*.xlsx
+desktop.ini
