@@ -11,7 +11,7 @@ Analysis of the Superstore sample dataset: 9,994 order lines, 5,009 orders and 7
 ## What the data shows
 
 **1. Discounts above 20% destroy profit.**
-Order lines with no discount earn a 29.51% margin (1,087,908 in sales). Lines discounted up to 20% earn 11.91%. The 1,393 lines discounted by more than 20% have a margin of -37.32% and lose 135,376, a loss equal to about 47% of the profit the company reports. This holds in every region.
+Order lines with no discount make a 29.51% margin on 1,087,908 in sales. Once a discount is added, the margin shrinks to 11.91% for discounts up to 20%.
 
 **2. Every loss-making state is a state where every line is discounted.**
 Ten states lose money, 98,247 in total: Texas (-25,729), Ohio (-16,971), Pennsylvania (-15,560), Illinois (-12,608), North Carolina (-7,491), Colorado (-6,528), Tennessee (-5,342), Arizona (-3,428), Florida (-3,399) and Oregon (-1,190). All ten are among the 11 states where every order line carries a discount; the eleventh, Wyoming, barely breaks even (100). Those 11 states together have a margin of -13.88%, against 22.27% for states with mixed discounting and 29.81% for states with no discounts.

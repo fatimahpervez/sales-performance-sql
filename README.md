@@ -6,7 +6,7 @@ A sales and profitability analysis of the Superstore sample dataset (9,994 order
 
 ## Key findings
 
-- **Discounts above 20% destroy profit.** Lines discounted by more than 20% have a margin of -37.32% and lose 135,376, about 47% of the company's reported profit of 286,397. Undiscounted lines earn 29.51%.
+- **Lines discounted by more than 20% are where the losses are.** Lines discounted by more than 20% have a margin of -37.32% and lose 135,376, about 47% of the company's reported profit of 286,397. Undiscounted lines earn 29.51%.
 - **Every loss-making state is a fully discounted state.** Ten states lose money (Texas, Ohio, Pennsylvania, Illinois, North Carolina, Colorado, Tennessee, Arizona, Florida, Oregon). All ten are among the 11 states where every order line carries a discount.
 - **Central's weak margin comes from two states.** Texas and Illinois lose 38,337 together; the other 11 Central states are profitable.
 
