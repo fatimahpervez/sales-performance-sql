@@ -1,6 +1,6 @@
 # Superstore sales performance: PostgreSQL and Excel
 
-A sales and profitability analysis of the Superstore sample dataset (9,994 order lines, 2014 to 2017). The raw flat file was normalised into a relational PostgreSQL schema, analysed with SQL (joins, CTEs, window functions, subqueries, views), and turned into an interactive Excel dashboard with pivot tables, slicers and `XLOOKUP`.
+A sales and profitability analysis of the Superstore sample dataset (9,994 order lines, 2014 to 2017). The raw flat file was normalised into a relational PostgreSQL schema, analysed with SQL (joins, CTEs, window functions, subqueries, views), and summarised in an Excel dashboard (pivot tables, slicers, `XLOOKUP`) built on the database views. The dashboard is shown as a screenshot; the workbook itself is not published (see below).
 
 ![Dashboard](images/dashboard.png)
 
